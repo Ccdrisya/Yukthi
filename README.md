@@ -1,5 +1,5 @@
 
-                                  YUKTHI
+                              YUKTHI
                   Tech Fest Website — St. Mary's College, Thrissur
                         https://yukthismc.onrender.com/
 ================================================================================
@@ -35,28 +35,31 @@ TECH STACK
 PROJECT STRUCTURE
 --------------------------------------------------------------------------------
 
-  Yukthi/
-  |-- dist/                    # Webpack build output
-  |-- node_modules/            # Project dependencies
-  |-- src/
-  |   `-- index.js             # Main JS entry point
-  |-- website/
-  |   |-- images/              # Event photos, logo, sponsor images
-  |   |   |-- logo.png
-  |   |   |-- sp2.png / sp3.png / sp4.jpg
-  |   |   `-- 1.jpg, 2(1).jpeg ... 2(18).jpeg
-  |   |-- index.html           # Landing page
-  |   |-- event.html           # Events page
-  |   |-- intro.html           # Intro page
-  |   |-- style.css            # Stylesheet
-  |   |-- script.js            # Frontend scripts
-  |   `-- webpack.config.js    # Webpack configuration
-  |-- server.js                # Express server entry point
-  |-- package.json             # Project metadata & scripts
-  |-- package-lock.json        # Dependency lock file
-  |-- sitemap.xml              # SEO sitemap
-  |-- LICENSE                  # MIT License
-  `-- README.md
+Yukthi/
+    dist/                       Webpack build output
+    node_modules/               Project dependencies
+    src/
+        index.js                Main JS entry point
+    website/
+        images/                 Event photos, logo, sponsor images
+            logo.png
+            sp2.png
+            sp3.png
+            sp4.jpg
+            1.jpg
+            2(1).jpeg ... 2(18).jpeg
+        index.html              Landing page
+        event.html              Events page
+        intro.html              Intro page
+        style.css               Stylesheet
+        script.js               Frontend scripts
+        webpack.config.js       Webpack configuration
+    server.js                   Express server entry point
+    package.json                Project metadata and scripts
+    package-lock.json           Dependency lock file
+    sitemap.xml                 SEO sitemap
+    LICENSE                     MIT License
+    README.md
 
 --------------------------------------------------------------------------------
 INSTALLATION & SETUP
@@ -115,8 +118,10 @@ LICENSE
   This project is licensed under the MIT License.
 
 --------------------------------------------------------------------------------
-AUTHORS
+AUTHORS & CONTRIBUTORS
 --------------------------------------------------------------------------------
+
+  yukthismc
   Ccdrisya (Drisya C C)
 
   Yukthi Tech Fest — St. Mary's College, Thrissur
