@@ -115,10 +115,8 @@ LICENSE
   This project is licensed under the MIT License.
 
 --------------------------------------------------------------------------------
-AUTHORS & CONTRIBUTORS
+AUTHORS
 --------------------------------------------------------------------------------
-
-  yukthismc
   Ccdrisya (Drisya C C)
 
   Yukthi Tech Fest — St. Mary's College, Thrissur
